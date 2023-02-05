@@ -5,7 +5,7 @@ This repository contains two automation scripts written in Python: one to resize
 
 ## Requirements
 The following packages are required for these scripts:
-- `Pillow` (for image resizing)
+- `os` and `Pillow` (for image resizing)
 - `os` and `shutil`  (for file organization)
 
 ## Usage
