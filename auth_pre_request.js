@@ -1,7 +1,7 @@
 const login_url=pm.variables.get("login_url");
 const email=pm.variables.get("email");
 const password=pm.variables.get("password");
-
+// set these before  currentAccessToken  , accessTokenExpiry
 const echoPostRequest = {
 
   url: login_url,
