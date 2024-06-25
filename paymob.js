@@ -63,7 +63,7 @@ async function thirdStep (token , id) {
             "state": "Utah"
         }, 
         "currency": "EGP", 
-        "integration_id": "4538217"
+        "integration_id": ""
     }
 
     let request = await fetch('https://accept.paymob.com/api/acceptance/payment_keys' , {
